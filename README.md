@@ -62,3 +62,6 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
           
 </div>
+### 🐍 Cobrinha dos commits
+
+![snake gif](./assets/github-contribution-grid-snake.gif)
