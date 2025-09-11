@@ -1,27 +1,23 @@
-name: Generate Snake
+name: Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
         with:
           github_user_name: manuelburica
-          outputs: |
-            ./assets/github-contribution-grid-snake.svg
-            ./assets/github-contribution-grid-snake.gif
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          message: "Atualiza cobrinha 🐍"
-          add: "assets"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
