@@ -7,8 +7,11 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
 </a> do mestre  <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank" rel="noopener noreferrer">
  Guanabara
 </a>, tutoriais no YouTube, inteligência artificial, e fé. Às vezes, o dilema é cruel: saldo de internet ou comida na mesa. Mas sigo. Porque onde muitos veem barreiras, eu vejo degraus. Durmo pouco, estudo muito. Às vezes só 5 horas de sono, mas com o cérebro aceso e o coração pulsando código. Minha família é minha base, minha realidade é meu combustível. Não sou produto de privilégio, sou prova de que talento e esforço podem romper qualquer estatística. Crio experiências que impactam, porque cada linha que escrevo carrega dor, sonho e superação. Sou Manuel Burica. E eu não programo só com lógica — eu programo com alma.🔥💻💪
+<p></p>
+<img src="tanner-computer-kid.gif" alt="gif" align="center" width="300">
 <hr style="border: 2px solid #333; margin: 40px 0;  border-radius: 15px;">
 <div style="display: inline_block">
+ 
 
   <h3 align="leftr">My web development skills:</h3>
 
@@ -20,9 +23,9 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
    <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
           
    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
  <img 
-            align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+     align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
   
 </div>
@@ -36,7 +39,9 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
 </div>
 
 <h3 align="left">My tools for web development: </h3>
+ 
 <div style="display: inline_block">
+<img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
@@ -58,6 +63,9 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+<p></p>
+
+
           
 </div>
 
