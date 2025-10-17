@@ -12,8 +12,6 @@ Manuel Burica — 16 anos, vivo e nascido em Angola-Luanda , mas com alma de vet
 
   <h3 align="leftr">My web development skills:</h3>
 
-   nome é Manuel Burica, tenho 16 anos e já vivo no código como se fosse oxigênio
-
  
    <img   align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
